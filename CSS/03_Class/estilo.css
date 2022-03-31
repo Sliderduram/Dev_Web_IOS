@@ -41,3 +41,11 @@ ul {
 p.fundo {
     background-color: sandybrown;
 }
+
+div.container {
+    /*display: block;
+    margin: auto;
+    width: 60%;*/
+    display: flex;
+    justify-content: center;
+ }
